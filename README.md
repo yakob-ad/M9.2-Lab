@@ -33,4 +33,5 @@ There are no written tests for this project.
 ## Sources and Credits
 
 - MDN Learning Web Development: https://developer.mozilla.org/en-US/docs/Learn_web_development
+- How to use `textContent` property in JavaScript: https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
 
